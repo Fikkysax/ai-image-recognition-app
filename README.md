@@ -4,7 +4,7 @@ A free AI image recognition web app built with Python, TensorFlow/Keras, MobileN
 
 ## Live Demo
 
-Add your Hugging Face Space link here.
+[Open the live app](https://huggingface.co/spaces/Fikkysax/ai_image_recognition_app)
 
 ## What the app does
 
